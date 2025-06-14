@@ -55,6 +55,6 @@ T H R O U G H   D A T A   &   A I
 ---
 
 <p align="center">
-  <b>█ █ █   L E T ’ S   R E B O O T   A I   F O R   H U M A N S   █ █ █</b>
+  <b>█ █ █  A I & D A T A  F O R   H U M A N S   █ █ █</b>
 </p>
 
