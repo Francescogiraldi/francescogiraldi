@@ -1,34 +1,39 @@
 <p align="center">
-  <img width="300" src="https://raw.githubusercontent.com/FrancescoXX/FrancescoXX/main/assets/cherry-blossom.png" alt="Cherry Blossom">
+  <span style="font-size:3em">🌸</span>
 </p>
 
-<h1 align="center">🌸 こんにちは、フランチェスコです 🌸</h1>
+<h1 align="center" style="color:#e95464;font-family:Georgia,serif">Francesco Giraldi</h1>
 
-<h3 align="center">
-  <span style="color:#e95464">データ</span> · <span style="color:#7db4d6">AI</span> · <span style="color:#d4af37">シンプルさ</span>
+<h3 align="center" style="color:#7db4d6;font-weight:300">
+  <span style="color:#e95464">データ</span> · 
+  <span style="color:#7db4d6">AI</span> · 
+  <span style="color:#d4af37">シンプル</span>
 </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FrancescoXX/FrancescoXX/main/assets/wave-divider.png" width="400" alt="Wave divider">
+  <span style="color:#7db4d6;letter-spacing:-3px">━━━━━━━━◆━━━━━━━━</span>
 </p>
 
-## 🎌 ミッション
+## <span style="color:#e95464">🎌</span> Mission
 
-> **複雑さを単純化し**<br>
-> **人々に力を与え**<br>
-> **データとAIで世界を改善する**
+> **Simplifier la complexité**<br>
+> **Donner du pouvoir aux gens**<br>
+> **Améliorer le monde**<br>
+> *par les données et l'IA*
 
-- 🔍 誰もが理解できるAIを作る
-- 🧭 データを人間の言葉と物語に変換する
-- 💡 複雑さを明確さに変える
+<p style="background-color:#f8f3f0;padding:15px;border-left:4px solid #e95464">
+🔍 IA compréhensible pour tous<br>
+🎨 Données transformées en récits humains<br>
+💡 Complexité rendue claire
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FrancescoXX/FrancescoXX/main/assets/torii-gate.png" width="100" alt="Torii gate">
+  <span style="font-size:2em">⛩️</span>
 </p>
 
-## 🛠️ 専門分野
+## <span style="color:#e95464">🛠️</span> Ce que je fais
 
 ```text
-🎯 シンプルなAIツールの構築
-📊 データをストーリーに変換
-🤝 人間中心のテクノロジー
+🌸  CRÉER DES OUTILS D'IA SIMPLES
+🌊  TRANSFORMER LES DONNÉES EN HISTOIRES
+🎎  RENDRE LA TECHNOLOGIE HUMAINE
